@@ -128,11 +128,3 @@ Please follow the standard GitHub flow:
 **Prince Gupta**
 📧 [princegupta995643@gmail.com](mailto:princegupta995643@gmail.com)
 LinkedIn: [https://www.linkedin.com/in/prince-gupta-a8129a209/](https://www.linkedin.com/in/prince-gupta-a8129a209/)
-
----
-
-## ⚖️ License
-
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.
-
-```
